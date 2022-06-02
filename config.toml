@@ -1,3 +1,22 @@
 baseURL = 'https://goern.github.io/zwetschgeneier.de/'
+enableEmoji = true
 languageCode = 'en-us'
+theme = 'hermit'
 title = 'zwetschgeneier'
+
+[author]
+name = "die Autoren"
+
+[params]
+themeColor = "#494f5c"
+
+footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+homeSubtitle = "home of Zweierlikör"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/"
+
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/"
